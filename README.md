@@ -3,3 +3,5 @@
 ## @yoshiakistのお題：『JavaScriptでデジタル時計』
 
 テストテスト
+
+test
