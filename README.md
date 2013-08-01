@@ -1,6 +1,6 @@
-# Code.jp　2日目　きんぎょばち Part3 〜コードゴルフに挑戦〜
+# Code.jp　2日目　きんぎょばち Part3 　〜コードゴルフに挑戦〜
 
-## @yoshiakistのお題：『JavaScriptでデジタル時計』
+## @yoshiakist のお題：『JavaScriptでデジタル時計』
 
 テストテスト
 
