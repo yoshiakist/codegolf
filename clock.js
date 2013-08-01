@@ -10,11 +10,11 @@ window.onload = function(){
         '■■■'
     ];
     var clock_1 = [
-        '　■　',
-        '　■　',
-        '　■　',
-        '　■　',
-        '　■　'
+        '　　■',
+        '　　■',
+        '　　■',
+        '　　■',
+        '　　■'
     ];
     var clock_2 = [
         '■■■',
@@ -53,7 +53,7 @@ window.onload = function(){
     ];
     var clock_7 = [
         '■■■',
-        '■　■',
+        '　　■',
         '　　■',
         '　　■',
         '　　■'
